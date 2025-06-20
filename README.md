@@ -133,6 +133,3 @@ If you found this useful, give it a star and share it with others!
 
 ---
 
-## 📝 License
-
-This project is under [MIT License](LICENSE.md).
