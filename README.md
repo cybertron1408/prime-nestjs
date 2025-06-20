@@ -129,7 +129,6 @@ awk 'NF {sub(/\r/, ""); printf "%s\\n",\$0;}' public_key.pem
 
 If you found this useful, give it a star and share it with others!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=josephgoksu/prime-nestjs\&type=Timeline)](https://star-history.com/#josephgoksu/prime-nestjs&Timeline)
 
 ---
 
